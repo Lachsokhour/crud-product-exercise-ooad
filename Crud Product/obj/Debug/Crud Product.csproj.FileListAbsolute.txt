@@ -1,0 +1,11 @@
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud Product.csproj.AssemblyReference.cache
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud_Product.ProductView.resources
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud_Product.Properties.Resources.resources
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud Product.csproj.GenerateResource.cache
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud Product.csproj.CoreCompileInputs.cache
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\bin\Debug\Crud Product.exe.config
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\bin\Debug\Crud Product.exe
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\bin\Debug\Crud Product.pdb
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud Product.exe
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud Product.pdb
+D:\RUPP-Year4\OOAD\191021\Crud Product\Crud Product\obj\Debug\Crud_Product.AddEditForm.resources
